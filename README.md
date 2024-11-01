@@ -1,6 +1,6 @@
 # Titanic Dataset Analysis
 
-This repository contains Python code for analyzing the Titanic dataset using data visualization and statistical methods. The analysis includes several key visualizations and a chi-square test to explore relationships within the data.
+This repository contains Python code for analyzing the Titanic dataset using data visualization and statistical methods. The analysis includes several visualizations tools and a chi-square test to explore relationships within the data.
 
 ## Features
 
@@ -17,8 +17,8 @@ This repository contains Python code for analyzing the Titanic dataset using dat
 
 ## Usage
 
-1. Clone the repository or download the files.
-2. Ensure the required libraries are installed.
+1. Download the files.
+2. Install the required libraries.
 3. Load the Titanic dataset into a Pandas DataFrame.
 4. Run the script to generate visualizations and statistical analyses.
 
